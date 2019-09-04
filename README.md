@@ -1,7 +1,5 @@
 # startng HTML CV task
 
-URL to social media flutterwave social media post
-https://twitter.com/Israel86102242/status/1164238073456156672
+Now this is an updated commit for the original HTML CV task. Now CSS has been introduced to make the CV more attractive, classy and presentable
 
-URL to lucid blog post
-https://lucid.blog/israelakowe/post/1566487872
+## No Lucid post yet as the site is down. 
